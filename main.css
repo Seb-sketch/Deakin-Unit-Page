@@ -1,6 +1,8 @@
-h1 {
-  font-size: 40px;
+h1{
+font-size: 40px;
   font-family: Arial;
+  color: blue; 
+  text-align: right; 
 }
 
 h2 {
