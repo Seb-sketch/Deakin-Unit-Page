@@ -1,7 +1,9 @@
-div {
+div.header-div {
     background-color: blue;
-    color: white;
     text-align: right;
+    color: white;      
+    padding: 10px;     
+    overflow: hidden;
 }
     h1 {
       font-size: 40px;
